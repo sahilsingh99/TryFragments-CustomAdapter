@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TryFrag&amp;Adap</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Family">Family</string>
+    <string name="Audio">Audios</string>
+    <string name="Me">Sahil Kundu</string>
+    <string name="Sis">Anjali Kundu</string>
+    <string name="Papa">Sajjan Kundu</string>
+    <string name="Maa">Kavita Kundu</string>
+    <string name="Chachu">Tasvir Kundu</string>
+    <string name="Dadi">RajVanti Kundu</string>
+    <string name="Dadu">Amir Kundu</string>
+    <string name="Dholak">Aman Ahlawat</string>
+    <string name="Telu">Atul Ahlawat</string>
+
+    <string name="AllGood">All the Good girls</string>
+    <string name="BadGuy">Bad Guy</string>
+    <string name="Bury">Bury a Friend</string>
+    <string name="ILU">I love You</string>
+    <string name="Idk">I Don\'t wanna</string>
+    <string name="Lovely">Lovely</string>
+    <string name="When">When the Party is Over</string>
+
+</resources>
